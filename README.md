@@ -4,26 +4,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Hi,+I'm+Shashith+Malshan;Crafting+Luxury+UI%2FUX;Architecting+Resilient+Backends;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing Animation" />
 
-*Bridging the gap between premium front-end aesthetics and load-tested, high-concurrency architectures.*
+*Bridging the gap between premium front-end aesthetics and high-concurrency architectures.*
 
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shashithmalshan" style="text-decoration:none;">
+  <a href="https://linkedin.com/in/shashithmalshan">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:malshanshashith318@gmail.com" style="text-decoration:none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:malshanshashith318@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
   </a>
 </p>
 
-<br><br>
 
 </div>
 
 ---
-
 ### About Me
 
 * 🌱 I'm currently working on **full-stack web development** with Java, Spring Boot, Angular, Next.js, and Node.js.
